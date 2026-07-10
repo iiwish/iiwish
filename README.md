@@ -21,6 +21,7 @@
 
 ## 开源项目
 
+- [**Kirje**](https://github.com/iiwish/kirje)：基于开源 Velo 演进的本地优先邮件跟进助手，围绕跟进状态、隐私安全和 Kirje 发布治理持续维护；已提供经过校验的 [macOS Apple Silicon 预览安装包](https://github.com/iiwish/kirje/releases/tag/v0.4.21)。
 - [**SkillRun**](https://github.com/iiwish/skillrun)：用 Rust 构建的 Agent Skill Runtime，将 SOP、Schema、Preflight、运行记录与 MCP 暴露组织成可检查、可运行、可分发的 Skill Capsule。
 - [**AgentRecord**](https://github.com/iiwish/agentrecord)：从本地 Agent 工作轨迹生成用户自有、可审查、隐私优先的 AI 工作档案。
 - [**HertZ ExcelAddIn**](https://github.com/iiwish/HertZ_ExcelAddIn)：从审计工作场景出发开发的 Excel 加载项，也是我从财务业务走向软件与产品工作的早期实践。
