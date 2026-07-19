@@ -16,9 +16,9 @@
 | **AI 产研协同平台（Verrail）** | 任职北京中数智汇期间，从 0 到 1 完成的公司业务验证原型。负责产品定义、流程与对象模型、交互设计及原型实现；公开演示仅含模拟数据。 | [案例](https://iiwish.com/project/verrail/) · [原型](https://verrail.ee0.top/) |
 | **AI 标讯采集平台（Bidly）** | 面向公司标讯采集业务设计的 AI 产品验证原型，将来源接入、站点识别、Rule Pack、执行记录和原文追溯组织成 Agent 工作台；公开演示仅含模拟数据。 | [案例](https://iiwish.com/project/bidly/) · [原型](https://bidly.ee0.top/) |
 | **Agent CLI Runtime** | 个人开源项目。用统一 TypeScript API 接入 Codex CLI、Claude Code 与 OpenCode，处理 CLI 探测、事件流、生命周期、权限边界和任务图调度。 | [案例](https://iiwish.com/project/agent-cli-runtime/) · [GitHub](https://github.com/iiwish/agent-cli-runtime) · [npm](https://www.npmjs.com/package/agent-cli-runtime) |
-| **FateOS（fateos.me）** | 个人独立产品，独立完成定位、设计、实现与上线。将子平传统时序规则建模为确定性计算引擎，结合出生地真太阳时校正生成每日状态面板与「今日宜忌」，并设计可分享状态卡完成自传播；Next.js + TypeScript monorepo 实现，内容定位为文化与反思参考。 | [产品](https://fateos.me/) |
-| **SoloConvert（soloconvert.com）** | 个人独立产品，面向海外用户的本地优先媒体转换工具。将 FFmpeg 编译为 WebAssembly，在浏览器内完成图片、音频、视频转换，文件不出设备、无需登录；设计 Freemium 模式，通过 Gumroad 售卖 Pro 终身授权。 | [产品](https://soloconvert.com/) · [GitHub](https://github.com/iiwish/solo-convert) |
-| **Mycelio（mycelio.ai）** | 个人开源项目，面向 AI Agent 的去中心化任务市场。设计并实现任务发布、认领、提交、结算的完整状态机与 Karma 赏金经济，基于 PostgreSQL ACID 事务与原子认领保证无信任条件下的公平交换，支持 A2A 协议；数据库已停用，站点保留纯演示效果。 | [产品](https://mycelio.ai/) · [GitHub](https://github.com/openwish/mycelio) |
+| **FateOS（fateos.me）** | 个人独立产品，独立完成定位、设计、实现与上线。将子平传统时序规则建模为确定性计算引擎，结合出生地真太阳时校正生成每日状态面板与「今日宜忌」，并设计可分享状态卡完成自传播；Next.js + TypeScript monorepo 实现，内容定位为文化与反思参考。 | [案例](https://iiwish.com/project/fateos/) · [产品](https://fateos.me/) |
+| **SoloConvert（soloconvert.com）** | 个人独立产品，面向海外用户的本地优先媒体转换工具。将 FFmpeg 编译为 WebAssembly，在浏览器内完成图片、音频、视频转换，文件不出设备、无需登录；设计 Freemium 模式，通过 Gumroad 售卖 Pro 终身授权。 | [案例](https://iiwish.com/project/soloconvert/) · [产品](https://soloconvert.com/) · [GitHub](https://github.com/iiwish/solo-convert) |
+| **Mycelio（mycelio.ai）** | 个人开源项目，面向 AI Agent 的去中心化任务市场。设计并实现任务发布、认领、提交、结算的完整状态机与 Karma 赏金经济，基于 PostgreSQL ACID 事务与原子认领保证无信任条件下的公平交换，支持 A2A 协议；数据库已停用，站点保留纯演示效果。 | [案例](https://iiwish.com/project/mycelio/) · [产品](https://mycelio.ai/) · [GitHub](https://github.com/openwish/mycelio) |
 | **SmartTable** | 面向财务与数据用户的在线表格、数据集、语义层和权限原型，验证类 Excel 自助数据处理与分析工作流。 | [案例](https://iiwish.com/project/smarttable/) · [原型](https://iiwish.com/prototype/smarttable/) |
 | **ERPv3 糕点店库存管理系统** | 2024 年为亲戚家的糕点店设计并实现，覆盖库存、订单、出入库和基础审计链路；公开环境仅含模拟数据。 | [案例](https://iiwish.com/project/erpv3/) · [演示](https://erp.ee0.top/) |
 
